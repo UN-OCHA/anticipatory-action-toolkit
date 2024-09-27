@@ -1,0 +1,17 @@
+.cd-archive-banner {
+  background-color: #F58220;
+  padding: 1rem;
+}
+
+.cd-archive-banner--inner {
+  text-align: center;
+  color: #000;
+}
+
+.cd-archive-banner--inner a {
+  color: #000;
+}
+
+.elementor-search-form {
+  display: none !important;
+}
